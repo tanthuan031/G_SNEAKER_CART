@@ -2,6 +2,8 @@
 
 Github Project: https://github.com/tanthuan031/G_SNEAKER_CART.git
 
+Link DEMO : http://gshoes.lovestoblog.com/G_SHOES/
+
 ### BackEnd: PHP core
 
 - Php: 8.2
